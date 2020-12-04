@@ -25,7 +25,7 @@ MonoBehaviour:
   defaultLightingSceneIndex: 0
   lightingScenes:
   - Name: DefaultLightingScene
-    Path: Assets/MixedRealityToolkit.SDK/StandardAssets/Scenes/DefaultLightingScene.unity
+    Path: Assets/MRTK/Services/SceneSystem/SceneSystemResources/DefaultLightingScene.unity
     Included: 1
     BuildIndex: 9
     Tag: Untagged
@@ -82,7 +82,7 @@ MonoBehaviour:
   - Name: Xylophone
     Path: Assets/Surfaces/Scenes/Xylophone.unity
     Included: 1
-    BuildIndex: 9
+    BuildIndex: 10
     Tag: Untagged
     Asset: {fileID: 102900000, guid: a0c4bff6c5f71034baebb630f4a2c96d, type: 3}
   permittedLightingSceneComponentTypes:

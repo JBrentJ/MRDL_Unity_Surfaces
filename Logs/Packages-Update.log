@@ -1,0 +1,14 @@
+
+=== Thu Dec  3 11:01:05 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.visualstudio from version 1.0.11 to 2.0.5
+  com.unity.ide.vscode from version 1.0.7 to 1.2.3
+  com.unity.textmeshpro from version 2.0.1 to 3.0.1
+The following packages were removed:
+  com.unity.xr.oculus.standalone@1.38.1
+  com.unity.xr.openvr.standalone@1.0.5
+  com.unity.xr.windowsmr.metro@3.0.2

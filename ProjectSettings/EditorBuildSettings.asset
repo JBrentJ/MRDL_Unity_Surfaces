@@ -38,4 +38,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Surfaces/Scenes/Xylophone.unity
     guid: a0c4bff6c5f71034baebb630f4a2c96d
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3bbe5a9239ec9d344bd5ff8ddabcb8c6,
+      type: 2}

@@ -1,0 +1,10 @@
+{
+        "name": "OpenXR Extension",
+        "version": "0.0.1",
+        "libraryName": "MicrosoftOpenXRPlugin",
+        "inputs": [
+                {
+                        "id": "OpenXR Input Extension"
+                }
+        ]
+}
